@@ -1,6 +1,6 @@
 ---
 title: "Strength of Concrete"
-author: "Shreyas Khadse"
+author: "Sai Khadse"
 subtitle: "Modelling with ANNs"
 output: md_document
   # prettydoc::html_pretty:
