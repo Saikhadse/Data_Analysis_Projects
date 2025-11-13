@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing Breast Cancer with the k-NN Classification Algorithm"
 subtitle: "Breast Cancer Wisconsin (Diagnostic) Data Set"
-author: "Shreyas Khadse"
+author: "Sai Khadse"
 
 output: md_document
   # prettydoc::html_pretty:
