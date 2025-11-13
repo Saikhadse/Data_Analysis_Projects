@@ -1,7 +1,7 @@
 ---
 title: "Identifying Risky Bank Loans"
 subtitle: "Using C5.0 Decision Trees"
-author: "Shreyas Khadse"
+author: "Sai Khadse"
 
 output: md_document
   # prettydoc::html_pretty:
