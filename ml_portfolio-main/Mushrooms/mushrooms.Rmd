@@ -1,7 +1,7 @@
 ---
 title: "Identifying Poisonous Mushrooms"
 subtitle: "With Rule Learners"
-author: "Shreyas Khadse"
+author: "Sai Khadse"
 output: md_document
   # prettydoc::html_pretty:
   #     theme: tactile
