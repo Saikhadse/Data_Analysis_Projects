@@ -1,6 +1,6 @@
 ---
 title: "OCR"
-author: "Shreyas Khadse"
+author: "Sai Khadse"
 subtitle: "With SVM"
 output: md_document
   # prettydoc::html_pretty:
