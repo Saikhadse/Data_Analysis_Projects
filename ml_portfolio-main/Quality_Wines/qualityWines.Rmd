@@ -1,7 +1,7 @@
 ---
 title: "Estimating the Quality of Wines"
 subtitle: "With regression trees and model trees"
-author: "Shreyas Khadse"
+author: "Sai Khadse"
 output: md_document
   # prettydoc::html_pretty:
   #     theme: leonids
