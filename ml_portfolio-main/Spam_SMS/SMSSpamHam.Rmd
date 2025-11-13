@@ -1,6 +1,6 @@
 ---
 title: "Spam/Ham Text SMS Classification using Naive Bayes in R"
-author: "Shreyas Khadse"
+author: "Sai Khadse"
 output: md_document
   # prettydoc::html_pretty:
   #     theme: hpstr
