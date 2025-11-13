@@ -1,7 +1,7 @@
 ---
 title: "Predicting Medical Expenses"
 subtitle: "Using linear regression"
-author: "Shreyas Khadse"
+author: "Sai Khadse"
 output: md_document
   # prettydoc::html_pretty:
   #     theme: leonids
